@@ -1,5 +1,8 @@
 ### Innov8 Technological Strategies:
 <a href="https://www.facebook.com/Innov8TechnologicalStrategies/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://instagram.com/innov8technologicalstrategies"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://innov8technologicalstrategies.com/"><img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg"></a>
+<H2>SITE STATUS:</H2>
+[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://innov8technologicalstrategies.com/)
 
 ### Current Status Quo:
 
